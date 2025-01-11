@@ -6,5 +6,5 @@
   - [About](About)
   - ## Portfolio Projects
       - RStudio
-  - [Portfolio Projects](Portfolio Projects)
-    ## Portfolio Projects
+  - [Portfolio Projects](Portfolio-Projects)
+    
