@@ -6,5 +6,6 @@
   - [About](About)
   - ## Portfolio Projects
       - RStudio
+          - Cyclistic Bike-Share Analysis 
   - [Portfolio Projects](Portfolio-Projects)
     
