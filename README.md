@@ -17,13 +17,13 @@ Some content here.
 [Go to My Section](#my-section-title)
 # Table of Contents
 
-- [Section 1](#section-1)
+- [Portfolio Projects](#portfolio-projects)
 - [Section 2](#section-2)
 - [Section 3](#section-3)
 
 ---
 
-## Section 1
+## Portfoio Projects
 
 Content for section 1.
 
