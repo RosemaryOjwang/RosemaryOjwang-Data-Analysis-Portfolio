@@ -24,7 +24,7 @@ Content.
 
 - ## Education
 
-Content.
+    Maseno University, Kisumu, Kenya: Bachelor of Science (Basic Science with IT) - Mathematics Major, 2007-2011.
 
 ## Projects
 
