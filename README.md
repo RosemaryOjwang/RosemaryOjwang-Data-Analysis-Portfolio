@@ -1,37 +1,27 @@
 # Rosemary Ojwang - Data Analyst Portfolio
 
-## About
+## ABout
 
-## Table of Content
-  - [About](About)
-  - ### Portfolio Projects
-      - RStudio
-          - Cyclistic Bike-Share Analysis 
-  - [Portfolio Projects](#Portfolio-Projects)
-  - ### Certificates
-  - ### Education
-  - ## My Section Title
+Content for About.
 
-Some content here.
-
-[Go to My Section](#my-section-title)
 # Table of Contents
 
+- [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-- [Section 2](#section-2)
-- [Section 3](#section-3)
+- [Certificates](#certificates)
+- [Education](#Education)
 
 ---
 
 ## Portfoio Projects
 
-Content for section 1.
+Content.
 
-## Section 2
+## Certificates
 
-Content for section 2.
+Content.
 
-## Section 3
+## Education
 
-Content for section 3.
+Content.
 
