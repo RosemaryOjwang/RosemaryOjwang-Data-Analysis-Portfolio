@@ -4,10 +4,10 @@
 
 ## Table of Content
   - [About](About)
-  - ## Portfolio Projects
+  - ### Portfolio Projects
       - RStudio
           - Cyclistic Bike-Share Analysis 
-  - [Portfolio Projects](Portfolio-Projects)
-  - ## Certificates
-  - ## Education                             [
+  - [Portfolio Projects](#Portfolio-Projects)
+  - ### Certificates
+  - ### Education                             [
     
