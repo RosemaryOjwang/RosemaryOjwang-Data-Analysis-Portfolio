@@ -9,5 +9,11 @@
           - Cyclistic Bike-Share Analysis 
   - [Portfolio Projects](#Portfolio-Projects)
   - ### Certificates
-  - ### Education                             [
+  - ### Education
+  - ## My Section Title
+
+Some content here.
+
+[Go to My Section](#my-section-title)
+                        [
     
