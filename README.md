@@ -1,6 +1,6 @@
 # Rosemary Ojwang - Data Analyst Portfolio
 
-## About
+- ## About
 
 Content for About.
 
@@ -13,15 +13,15 @@ Content for About.
 
 ---
 
-## Portfoio Projects
+- ## Portfoio Projects
 
   - ## RStudio
 
-## Certificates
+- ## Certificates
 
 Content.
 
-## Education
+- ## Education
 
 Content.
 
