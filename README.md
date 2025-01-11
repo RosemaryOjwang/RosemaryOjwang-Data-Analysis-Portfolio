@@ -13,7 +13,7 @@ Content for About.
 
 ---
 
-- ## Portfoio Projects
+- ## Portfolio Projects
 
   - RStudio
       - [Cyclistic Bike-Share Data Analysis](#cyclistic-bike-share-data-analysis)
