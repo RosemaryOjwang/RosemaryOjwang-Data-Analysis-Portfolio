@@ -8,4 +8,6 @@
       - RStudio
           - Cyclistic Bike-Share Analysis 
   - [Portfolio Projects](Portfolio-Projects)
+  - ## Certificates
+  - ## Education                             [
     
