@@ -16,6 +16,7 @@ Content for About.
 - ## Portfoio Projects
 
   - ## RStudio
+      - ### Cyclistic Bike-Share Data Analysis
 
 - ## Certificates
 
