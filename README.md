@@ -1,6 +1,6 @@
 # Rosemary Ojwang - Data Analyst Portfolio
 
-- ## About
+## About
  Hello, I’m Rosemary! With a strong analytical background in mathematics, I am currently working towards completing my Professional Certificate in Data Analytics. I have expertise in using a range of data tools for data cleaning, analysis, and visualization, all aimed at supporting decision-making and driving impactful change. I am experienced in SQL, Excel, Tableau, and R, and have a solid understanding of key data analytics techniques, including data preparation, wrangling, statistical analysis, dashboard creation, chart design, process documentation, and data storytelling.
 
 # Table of Contents
