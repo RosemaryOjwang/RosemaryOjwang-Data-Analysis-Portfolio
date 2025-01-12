@@ -18,9 +18,8 @@
       - [Cyclistic Bike-Share Data Analysis](#cyclistic-bike-share-data-analysis)
 
 - ## Certificates
-
-Content.
-
+   - Google Data Analytics Professional Certificate(Expected January 2025) (Cousera - Google)
+     
 - ## Education
 
     Maseno University, Kisumu, Kenya: Bachelor of Science (Basic Science with IT) - Mathematics Major, 2007-2011.
