@@ -20,7 +20,8 @@
       - [Inventory Management System](#inventory-management-system)
         
 - ## Certificates
-   - Google Data Analytics Professional Certificate(Expected January 2025) (Cousera - Google)
+   - Data Science (Expected April 2026) (ALX)
+   - Google Data Analytics Professional Certificate(January 2025) (Cousera - Google)
      
 - ## Education
 
