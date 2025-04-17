@@ -15,9 +15,10 @@
 - ## Portfolio Projects
 
   - RStudio
-      - [Cyclistic Bike-Share Data Analysis](#cyclistic-bike-share-data-analysis)
+      - [Cyclistic Bike-Share Data Analysis](https://github.com/RosemaryOjwang/Cyclistic-Bike-Share-Data-Analysis)
   - Excel
-      - [Inventory Management System](#inventory-management-system)
+      - [](https://github.com/RosemaryOjwang/Bellabeat-Data-Analysis)
+      - [Inventory Management System](https://github.com/RosemaryOjwang/Inventory_Management_System)
         
 - ## Certificates
    - Data Science (Expected April 2026) (ALX)
