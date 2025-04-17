@@ -17,7 +17,7 @@
   - RStudio
       - [Cyclistic Bike-Share Data Analysis](https://github.com/RosemaryOjwang/Cyclistic-Bike-Share-Data-Analysis)
   - Excel
-      - [](https://github.com/RosemaryOjwang/Bellabeat-Data-Analysis)
+      - [Bellabeat Data Analysis](https://github.com/RosemaryOjwang/Bellabeat-Data-Analysis)
       - [Inventory Management System](https://github.com/RosemaryOjwang/Inventory_Management_System)
         
 - ## Certificates
