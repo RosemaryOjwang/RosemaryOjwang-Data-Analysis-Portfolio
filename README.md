@@ -19,10 +19,12 @@
   - Excel
       - [Bellabeat Data Analysis](https://github.com/RosemaryOjwang/Bellabeat-Data-Analysis)
       - [Inventory Management System](https://github.com/RosemaryOjwang/Inventory_Management_System)
+  - Python
+      - [finance-automation-python](https://github.com/RosemaryOjwang/finance-automation-python)      
         
 - ## Certificates
    - Data Science (Expected April 2026) (ALX)
-   - Google Data Analytics Professional Certificate(January 2025) (Cousera - Google)
+   - Google Data Analytics Professional Certificate(January 2025) (Coursera - Google)
    - Cloud Practitioner (April 2024) (AWS)
      
 - ## Education
