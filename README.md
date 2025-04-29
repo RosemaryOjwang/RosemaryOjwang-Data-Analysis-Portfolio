@@ -20,7 +20,9 @@
       - [Bellabeat Data Analysis](https://github.com/RosemaryOjwang/Bellabeat-Data-Analysis)
       - [Inventory Management System](https://github.com/RosemaryOjwang/Inventory_Management_System)
   - Python
-      - [finance-automation-python](https://github.com/RosemaryOjwang/finance-automation-python)      
+      - [finance-automation-python](https://github.com/RosemaryOjwang/finance-automation-python)
+  - Tableau
+      - [British Airways Reviews Dashboard](https://github.com/RosemaryOjwang/British-Airways-Reviews)      
         
 - ## Certificates
    - Data Science (Expected April 2026) (ALX)
